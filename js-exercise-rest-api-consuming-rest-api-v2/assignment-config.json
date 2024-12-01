@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-rest-api-consuming-rest-api",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Consuming Rest Api",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "exercise"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "js-exercise-conditional-study-recommendation",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Conditional - Study Recommendation",
+	"order": 9999,
+	"topics": [
+		"conditional",
+		"string manipulation"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 5,
+	"metadata": {
+		"type": "exercise"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-array-of-object-game-grouping",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Game Grouping",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}

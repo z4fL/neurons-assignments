@@ -1,0 +1,17 @@
+{
+	"name": "react-exercise-list-keys-and-conditional-rendering",
+	"course": "Frontend Web Development with React",
+	"title": "Exercise - List Keys and Conditional Rendering",
+	"order": 999,
+	"topics": [
+		"State and Props",
+		"List and Keys",
+		"Conditional Rendering"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 5,
+	"metadata": {
+		"type": "exercise"
+	}
+}

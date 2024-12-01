@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-await-dynamic-calculation",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Dynamic Calculation (Await)",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 10,
+	"metadata": {
+		"type": "exercise"
+	}
+}

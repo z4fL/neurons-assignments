@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-modules-modules-and-env",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Modules And Env",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 3,
+	"metadata": {
+		"type": "exercise"
+	}
+}

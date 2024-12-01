@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-array-of-object-games-recommendation",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Games Recommendation",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}

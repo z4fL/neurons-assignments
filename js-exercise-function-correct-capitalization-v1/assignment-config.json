@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-function-correct-capitalization",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Correct Capitalization",
+	"order": 999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 3,
+	"metadata": {
+		"type": "exercise"
+	}
+}

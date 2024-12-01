@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-function-min-max",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Min Max",
+	"order": 999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"name": "react-exercise-fundamental",
+	"course": "Frontend Web Development with React",
+	"title": "Exercie - React Fundamental",
+	"order": 9999,
+	"topics": [
+		"Functional Component",
+		"State and Props",
+		"Event Handling",
+		"List and Keys",
+		"Conditional Rendering"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 9,
+	"metadata": {
+		"type": "exercise"
+	}
+}

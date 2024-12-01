@@ -1,0 +1,16 @@
+{
+	"name": "js-exercise-conditional-profit-monitor",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Conditional - Profit Monitor",
+	"order": 9999,
+	"topics": [
+		"conditional",
+		"string manipulation"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 7,
+	"metadata": {
+		"type": "exercise"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-iteration-print-the-number",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Print the Number",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 3,
+	"metadata": {
+		"type": "exercise"
+	}
+}

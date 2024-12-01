@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-array-data-selection",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Data Selection",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 6,
+	"metadata": {
+		"type": "exercise"
+	}
+}

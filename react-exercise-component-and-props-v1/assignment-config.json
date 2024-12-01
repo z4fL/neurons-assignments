@@ -1,0 +1,17 @@
+{
+	"name": "react-exercise-component-and-props",
+	"course": "Frontend Web Development with React",
+	"title": "Exercise - Functional component and props",
+	"order": 999,
+	"topics": [
+		"JSX",
+		"Functional Component",
+		"State and Props"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}

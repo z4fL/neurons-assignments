@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-promise-dynamic-calculation",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Dynamic Calculation (Promise)",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 10,
+	"metadata": {
+		"type": "exercise"
+	}
+}

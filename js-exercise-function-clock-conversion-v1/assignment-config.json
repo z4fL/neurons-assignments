@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-function-clock-conversion",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Clock Conversion",
+	"order": 999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "exercise"
+	}
+}

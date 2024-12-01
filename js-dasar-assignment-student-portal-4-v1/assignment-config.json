@@ -1,0 +1,15 @@
+{
+	"name": "js-dasar-assignment-student-portal-4",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Assignment 4 - Student Portal",
+	"order": 999,
+	"topics": [
+		"nodejs"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 11,
+	"metadata": {
+		"type": "assignment"
+	}
+}

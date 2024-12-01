@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-function-age-calculation",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Age Calculation",
+	"order": 999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "exercise"
+	}
+}

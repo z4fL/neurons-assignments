@@ -1,0 +1,15 @@
+{
+	"name": "react-exercise-chakra-fundamental",
+	"course": "Frontend Web Development with React",
+	"title": "Exercise - Chakra Fundamental",
+	"order": 999,
+	"topics": [
+		"Chakra UI"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 3,
+	"metadata": {
+		"type": "exercise"
+	}
+}

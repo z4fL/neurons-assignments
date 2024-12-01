@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-modular-function-temperature-conversion",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Temperature Conversion",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 24,
+	"metadata": {
+		"type": "exercise"
+	}
+}

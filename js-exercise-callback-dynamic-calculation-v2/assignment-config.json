@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-callback-dynamic-calculation",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Dynamic Calculation (Callback)",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 9,
+	"metadata": {
+		"type": "exercise"
+	}
+}

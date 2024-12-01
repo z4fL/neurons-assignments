@@ -1,0 +1,16 @@
+{
+	"name": "js-exercise-conditional-zodiac-signs",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Conditional - Zodiac Signs",
+	"order": 9999,
+	"topics": [
+		"conditional",
+		"string manipulation"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 27,
+	"metadata": {
+		"type": "exercise"
+	}
+}

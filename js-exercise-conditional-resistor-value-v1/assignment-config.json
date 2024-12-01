@@ -1,0 +1,17 @@
+{
+	"name": "js-exercise-conditional-resistor-value",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Conditional - Resistor Value",
+	"order": 9999,
+	"topics": [
+		"conditional",
+		"type conversion",
+		"string manipulation"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 6,
+	"metadata": {
+		"type": "exercise"
+	}
+}

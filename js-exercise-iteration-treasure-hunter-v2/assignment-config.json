@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-iteration-treasure-hunter",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Treasure Hunter",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 7,
+	"metadata": {
+		"type": "exercise"
+	}
+}

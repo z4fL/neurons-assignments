@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "deploy-gallery-app-rg"
+  }
+}

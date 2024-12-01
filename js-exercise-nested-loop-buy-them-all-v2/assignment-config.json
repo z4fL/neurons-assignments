@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-nested-loop-buy-them-all",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Buy Them All",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 5,
+	"metadata": {
+		"type": "exercise"
+	}
+}

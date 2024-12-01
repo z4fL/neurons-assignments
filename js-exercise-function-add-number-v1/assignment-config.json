@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-function-add-number",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Add The Number",
+	"order": 999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}

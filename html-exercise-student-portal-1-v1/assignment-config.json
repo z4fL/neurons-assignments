@@ -1,0 +1,15 @@
+{
+	"name": "html-exercise-student-portal-1",
+	"course": "Basic Frontend Web Development",
+	"title": "Exercise - Student Portal 1",
+	"order": 999,
+	"topics": [
+		"HTML"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 12,
+	"metadata": {
+		"type": "exercise"
+	}
+}

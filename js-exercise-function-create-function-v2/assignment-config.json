@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-function-create-function",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Create Function",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 31,
+	"metadata": {
+		"type": "exercise"
+	}
+}

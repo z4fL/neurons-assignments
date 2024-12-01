@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-best-salesman",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Best Salesman",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "exercise"
+	}
+}

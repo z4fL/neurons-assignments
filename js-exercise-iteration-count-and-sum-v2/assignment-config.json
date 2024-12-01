@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-iteration-count-and-sum",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Count and Sum",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 8,
+	"metadata": {
+		"type": "exercise"
+	}
+}

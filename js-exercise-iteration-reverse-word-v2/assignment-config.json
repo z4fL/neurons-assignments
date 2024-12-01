@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-iteration-reverse-word",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Reverse Word",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 9,
+	"metadata": {
+		"type": "exercise"
+	}
+}

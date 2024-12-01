@@ -1,0 +1,16 @@
+{
+	"name": "react-exercise-useeffect-and-data-fetching",
+	"course": "Frontend Web Development with React",
+	"title": "Exercise - useEffect and Data Fetching",
+	"order": 999,
+	"topics": [
+		"useEffect",
+		"Data Fetching"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 3,
+	"metadata": {
+		"type": "exercise"
+	}
+}

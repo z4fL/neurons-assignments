@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-multidimensional-array-discount-checker",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Discount Checker",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "exercise"
+	}
+}

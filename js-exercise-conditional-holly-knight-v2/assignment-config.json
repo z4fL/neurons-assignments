@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-conditional-holly-knight",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Holly Knight",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 6,
+	"metadata": {
+		"type": "exercise"
+	}
+}

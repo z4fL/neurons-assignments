@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-multidimensional-array-seat-arrangement",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Seat Arrangement",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "exercise"
+	}
+}

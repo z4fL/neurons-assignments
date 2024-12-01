@@ -1,0 +1,16 @@
+{
+	"name": "react-exercise-state-and-event-handling",
+	"course": "Frontend Web Development with React",
+	"title": "Exercise - State and Event Handling",
+	"order": 999,
+	"topics": [
+		"State and Props",
+		"Event Handling"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}

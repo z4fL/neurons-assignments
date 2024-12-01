@@ -1,0 +1,13 @@
+{
+	"name": "js-exercise-iteration-generate-parentheses-pair",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Exercise - Generate Parentheses Pair",
+	"order": 9999,
+	"topics": [],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 7,
+	"metadata": {
+		"type": "exercise"
+	}
+}
